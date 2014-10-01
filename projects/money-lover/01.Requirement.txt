@@ -8,8 +8,6 @@
    4. PHP: 5.3+
    5. SQL Server: MySQL
    6. Framework: CakePHP 2.4.x, Twitter Bootstrap 3
-   7. Coding style: http://www.php-fig.org/psr/psr-2/
-
 
 
 2. Functions list:
@@ -39,6 +37,7 @@
          * Delete transaction
          * Show transactions by date time, categories
          * Monthly report
-         
+
+
 3. Reference
    https://play.google.com/store/apps/details?id=com.bookmark.money
