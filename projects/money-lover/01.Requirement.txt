@@ -1,0 +1,47 @@
+﻿Money lover
+
+
+1. Environments:
+   1. OS: Windows 7/ Linux
+   2. IDE: Netbeans, Notepad++
+   3. Web Server: XAMPP / WAMP / Apache 2.2+
+   4. PHP: 5.3+
+   5. SQL Server: MySQL
+   6. Framework: CakePHP 2.4.x, Twitter Bootstrap 3
+   7. Coding style: http://www.php-fig.org/psr/psr-2/
+
+
+
+1. Function list:
+   1. Frontend:
+      1. Accounts & Authentication
+* Create account, email activate account
+* Update profile
+* Change / Reset password
+* Login / Logout
+    
+      1. Wallets
+   * Create wallet
+   * Update wallet info
+   * Set default wallet
+   * Change current wallet
+   * Change money between wallets
+    
+      1. Categories
+   * Add / Edit categories
+   * Note: 
+      * Logic for special categories (loan, borrow, ...)
+      * Categories have belong “spent on” or “earned from”
+   * Delete category, this is created by user
+
+
+      1. Transactions
+   * Add / Edit transactions
+* Note: 
+      * With loan and borrow, add return money option
+   * Delete transactions
+   * Show list transactions by date time, categories
+   * Statistic
+
+
+   1. Backend: (chưa cần)
