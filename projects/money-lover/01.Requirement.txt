@@ -12,36 +12,33 @@
 
 
 
-1. Function list:
-   1. Frontend:
+2. Functions list:
       1. Accounts & Authentication
-* Create account, email activate account
-* Update profile
-* Change / Reset password
-* Login / Logout
+         * Register, activate via email
+         * Update profile
+         * Change / Forgot password
+         * Login / Logout
     
-      1. Wallets
-   * Create wallet
-   * Update wallet info
-   * Set default wallet
-   * Change current wallet
-   * Change money between wallets
+      2. Wallets management
+         * Add wallet
+         * Update wallet info
+         * Set default wallet
+         * Change current wallet
+         * Transfer money between wallets
     
-      1. Categories
-   * Add / Edit categories
-   * Note: 
-      * Logic for special categories (loan, borrow, ...)
-      * Categories have belong “spent on” or “earned from”
-   * Delete category, this is created by user
+      3. Categories management
+         * Add / Edit categories
+         * Note: 
+            * Logic for special categories (loan, borrowings, ...)
+            * Categories have belong “spent on” or “earned from”
+         * Delete category
 
-
-      1. Transactions
-   * Add / Edit transactions
-* Note: 
-      * With loan and borrow, add return money option
-   * Delete transactions
-   * Show list transactions by date time, categories
-   * Statistic
-
-
-   1. Backend: (chưa cần)
+      4. Transaction
+         * Add / Edit transaction
+            (Note: With loan and borrowing, add return/pay money option)
+         * Delete transaction
+         * Show transactions by date time, categories
+         * Monthly report
+         
+3. Reference
+   https://play.google.com/store/apps/details?id=com.bookmark.money
