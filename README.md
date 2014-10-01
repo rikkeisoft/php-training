@@ -1,4 +1,4 @@
 php-training
 ============
 
-Project training for PHP dev
+Training project for PHP dev
