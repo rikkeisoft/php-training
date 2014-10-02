@@ -45,3 +45,54 @@ public function getInfo() {
     return 'Name: ' . $this->_name . '. Age: ' . $this->_age;
 }
 ```
+
+##4. Pay notice when using functions inside loops
+**Don't**
+```php
+for ($i  = 0, $i <= count($array);  $i++) {
+//statements
+}
+```
+
+**Do**
+```php
+$count = count($array);
+for ($i = 0; $i < $count;  $i++) {
+//statements
+}
+```
+If you store the value returned by the function in a separate variable before the loop, then you would be **saving enough execution time** as in the first case the function will be called and executed every time the loop runs which can increase the time complexity of the program for large loops.
+
+##5. Avoid *hard code*
+**Don't**
+```php
+class Person
+{
+    protected $_type;
+     
+    public function __construct($type)
+    {
+        $this->_type = $type;
+    }
+}
+...
+$person = new Person(1);
+```
+
+**Do**
+```php
+class Person
+{
+    const GOOD_TYPE = 1;
+    const BAD_TYPE  = 2;
+    
+    protected $_type;
+    
+    public function __construct($type)
+    {
+        $this->_type = $type;
+    }
+}
+...
+$person = new Person(Person::GOOD_TYPE);
+```
