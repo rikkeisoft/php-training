@@ -22,6 +22,6 @@ https://github.com/rikkeisoft/php-training/blob/master/projects/money-lover/01.R
 
 ##Requirements
 1. Follow coding convention and style guide    
-[PSR-1](https://github.com/rikkeisoft/php-training/blob/master/coding-conversions/PSR-1-basic-coding-standard.md)    
-[PSR-2](https://github.com/rikkeisoft/php-training/blob/master/coding-conversions/PSR-2-coding-style-guide.md)
+[PSR-1](https://github.com/rikkeisoft/php-training/blob/master/coding-conventions/PSR-1-basic-coding-standard.md)    
+[PSR-2](https://github.com/rikkeisoft/php-training/blob/master/coding-conventions/PSR-2-coding-style-guide.md)
 2. Pay attention on commenting, marking as TODO
