@@ -4,13 +4,13 @@
 1. Environments:
    1. OS: Windows 7/ Linux
    2. IDE: Netbeans, Notepad++
-   3. Web Server: XAMPP / WAMP / Apache 2.2+
-   4. PHP: 5.3+
-   5. SQL Server: MySQL
-   6. Framework: CakePHP 2.4.x, Twitter Bootstrap 3
+   3. Web Server: Apache 2.2+/Nginx
+   4. PHP: 5.4
+   5. SQL Server: MySQL 5.5
+   6. Framework: CakePHP 2, Twitter Bootstrap 3
 
 
-2. Functions list:
+2. Function list:
       1. Accounts & Authentication
          * Register, activate via email
          * Update profile
@@ -26,16 +26,16 @@
     
       3. Categories management
          * Add / Edit categories
-         * Note: 
-            * Logic for special categories (loan, borrowings, ...)
-            * Categories have belong “spent on” or “earned from”
          * Delete category
+         * Note: 
+            * There are some built-in (can't be deleted) categories with special logic: Loan, Borrowing, Other
+            * Each category is either income or expense type
 
       4. Transaction
          * Add / Edit transaction
-            (Note: With loan and borrowing, add return/pay money option)
+         * Return/Pay money transaction for existed transaction in Loan or Borrowing categories
          * Delete transaction
-         * Show transactions by date time, categories
+         * Show transactions by date range, categories
          * Monthly report
 
 
