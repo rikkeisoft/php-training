@@ -11,12 +11,12 @@ Training project for PHP dev
 4. SVN (And/Or Git) client
 
 ##On Linux
-1. Lastest Netbeans
-2. gedit/nano/vi
-3. apache/nginx, 
+1. Latest Netbeans
+2. gedit/nano/vi (SublimeText - highly recommend)
+3. LAMP/LEMP
 4. SVN (And/Or Git) client
 
-#2. Training project: money-lover
+#2. Training project: Money Lover
 ##Specifications
 https://github.com/rikkeisoft/php-training/blob/master/projects/money-lover/01.Requirement.txt
 
