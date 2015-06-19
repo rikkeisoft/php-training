@@ -7,7 +7,7 @@ Training project for PHP dev
 ##On Windows
 1. Latest Netbeans
 2. Latest Notepad++
-3. XAMPP
+3. Virtual machine with Ubuntu/CentOS server (with mysql server, apache/nginx)
 4. SVN (And/Or Git) client
 
 ##On Linux
