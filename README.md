@@ -8,13 +8,13 @@ Training project for PHP dev
 1. Latest Netbeans
 2. Latest Notepad++
 3. Virtual machine with Ubuntu/CentOS server (with mysql server, apache/nginx)
-4. SVN (And/Or Git) client
+4. SVN (and/or Git) client
 
 ##On Linux
 1. Latest Netbeans
-2. gedit/nano/vi (SublimeText - highly recommend)
+2. gedit/nano/vi (SublimeText - highly recommended)
 3. LAMP/LEMP
-4. SVN (And/Or Git) client
+4. SVN (and/or Git) client
 
 #2. Training project: Money Lover
 ##Specifications
