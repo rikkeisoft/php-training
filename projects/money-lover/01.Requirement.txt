@@ -2,9 +2,9 @@
 
 
 1. Environments:
-   1. OS: Windows 7/ Linux
-   2. IDE: Netbeans, Notepad++
-   3. Web Server: Apache 2.2+/Nginx
+   1. OS: Windows 7/Linux
+   2. IDE: Netbeans
+   3. Web Server: Apache 2.4+/Nginx
    4. PHP: 5.4
    5. SQL Server: MySQL 5.5
    6. Framework: CakePHP 2, Twitter Bootstrap 3
@@ -12,32 +12,29 @@
 
 2. Function list:
       1. Accounts & Authentication
-         * Register, activate via email
+         * Register (activate via email)
          * Update profile
-         * Change / Forgot password
-         * Login / Logout
+         * Change/Forgot password
+         * Login/Logout
     
       2. Wallets management
          * Add wallet
          * Update wallet info
-         * Set default wallet
          * Change current wallet
          * Transfer money between wallets
     
       3. Categories management
-         * Add / Edit categories
+         * Add/Edit category
          * Delete category
          * Note: 
-            * There are some built-in (can't be deleted) categories with special logic: Loan, Borrowing, Other
             * Each category is either income or expense type
 
       4. Transaction
-         * Add / Edit transaction
-         * Return/Pay money transaction for existed transaction in Loan or Borrowing categories
+         * Add/Edit transaction
          * Delete transaction
-         * Show transactions by date range, categories
+         * Show transactions by date range, category
          * Monthly report
 
 
 3. Reference
-   https://play.google.com/store/apps/details?id=com.bookmark.money
+   http://play.google.com/store/apps/details?id=com.bookmark.money
