@@ -13,14 +13,14 @@
 2. Function list:
       1. Accounts & Authentication
          * Register (activate via email)
-         * Update profile
+         * Upload/Change avatar
          * Change/Forgot password
          * Login/Logout
     
       2. Wallets management
          * Add wallet
          * Update wallet info
-         * Change current wallet
+         * Set current wallet
          * Transfer money between wallets
     
       3. Categories management
