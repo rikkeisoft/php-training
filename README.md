@@ -10,7 +10,7 @@ Training projects for PHP dev
 3. Virtual machine with Ubuntu/CentOS server (with MySQL Server, Apache/Nginx)
 4. SVN (and/or Git) client
 
-(Recommended VirtualBox Image: \\192.168.11.1\Share\Softwares\Windows\VirtualBox\ubuntu.lamp.quangnv.zip)
+(*Recommended VirtualBox Image:* \\\192.168.11.1\Share\Softwares\Windows\VirtualBox\ubuntu.lamp.quangnv.zip)
 
 ###On Linux
 1. Latest Netbeans
