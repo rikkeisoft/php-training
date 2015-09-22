@@ -17,8 +17,8 @@ Training projects for PHP dev
 4. SVN (and/or Git) client
 
 ##2. Training projects
-###[1. Money Lover](https://github.com/rikkeisoft/php-training/blob/master/projects/money-lover/01.Requirement.txt)
-###[2. Employee Directory](https://github.com/rikkeisoft/php-training/blob/master/projects/employee-directory/01.Requirement.txt)
+###[1. Money Lover](https://github.com/rikkeisoft/php-training/blob/master/projects/money-lover/01.Requirement.md)
+###[2. Employee Directory](https://github.com/rikkeisoft/php-training/blob/master/projects/employee-directory/01.Requirement.md)
 
 ##3. Common requirements
 1. Follow coding convention and style guide    
