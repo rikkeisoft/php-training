@@ -3,8 +3,8 @@ Rikkeisoft PHP Training
 
 Training projects for PHP dev
 
-##1. Setup environment
-###On Windows
+####1. Setup environment
+#####On Windows
 1. Latest Netbeans
 2. Latest Notepad++
 3. Virtual machine with Ubuntu/CentOS server (with MySQL Server, Apache/Nginx)
@@ -12,17 +12,17 @@ Training projects for PHP dev
 
 (*Recommended VirtualBox Image:* \\\192.168.11.1\Share\Softwares\Windows\VirtualBox\ubuntu.lamp.quangnv.zip)
 
-###On Linux
+#####On Linux
 1. Latest Netbeans
 2. gedit/nano/vim ([SublimeText](http://www.sublimetext.com/3), [Atom](https://atom.io) - highly recommended)
 3. LAMP/LEMP
 4. SVN (and/or Git) client
 
-##2. Training projects
-###[1. Money Lover](https://github.com/rikkeisoft/php-training/blob/master/projects/money-lover/01.Requirement.md)
-###[2. Employee Directory](https://github.com/rikkeisoft/php-training/blob/master/projects/employee-directory/01.Requirement.md)
+####2. Training projects
+#####[1. Money Lover](https://github.com/rikkeisoft/php-training/blob/master/projects/money-lover/01.Requirement.md)
+#####[2. Employee Directory](https://github.com/rikkeisoft/php-training/blob/master/projects/employee-directory/01.Requirement.md)
 
-##3. Common requirements
+####3. Common requirements
 1. Follow coding convention and style guide    
     - [PSR-1](https://github.com/rikkeisoft/php-training/blob/master/coding-conventions/PSR-1-basic-coding-standard.md)    
     - [PSR-2](https://github.com/rikkeisoft/php-training/blob/master/coding-conventions/PSR-2-coding-style-guide.md)    
