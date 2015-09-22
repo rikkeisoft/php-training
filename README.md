@@ -1,4 +1,4 @@
-php-training
+Rikkeisoft PHP Training
 ============
 
 Training projects for PHP dev
@@ -7,12 +7,14 @@ Training projects for PHP dev
 ###On Windows
 1. Latest Netbeans
 2. Latest Notepad++
-3. Virtual machine with Ubuntu/CentOS server (with mysql server, apache/nginx)
+3. Virtual machine with Ubuntu/CentOS server (with MySQL Server, Apache/Nginx)
 4. SVN (and/or Git) client
+
+(Recommended VirtualBox Image: \\192.168.11.1\Share\Softwares\Windows\VirtualBox\ubuntu.lamp.quangnv.zip)
 
 ###On Linux
 1. Latest Netbeans
-2. gedit/nano/vi (SublimeText - highly recommended)
+2. gedit/nano/vim ([SublimeText](http://www.sublimetext.com/3), [Atom](https://atom.io) - highly recommended)
 3. LAMP/LEMP
 4. SVN (and/or Git) client
 
