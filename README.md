@@ -1,5 +1,10 @@
 Rikkeisoft PHP Training
 ============
+[![forthebadge](http://forthebadge.com/images/badges/uses-git.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/ages-12.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+
 
 Training projects for PHP dev
 
